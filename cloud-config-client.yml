@@ -1,12 +1,2 @@
 ---
-spring:
-  profiles: dev
-name: dev profile
----
-spring:
-  profiles: staging
-name: staging profile
----
-spring:
-  profiles: prod
-name: prod profile
+property-name: my-awesome-cloud-config-server
