@@ -1,1 +1,1 @@
-server-name: spring cloud config server
+property-name: my-awesome-cloud-config-server
