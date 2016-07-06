@@ -37,3 +37,9 @@ spring:
   application:
     name: noun
 words: skunk,child,person,suspect,backpack,sandwich,groundhog  
+
+---
+spring:
+  profiles: phrase
+  application:
+    name: phrase
